@@ -1,0 +1,435 @@
+This is the first TMRC Dictionary, which I wrote in June, 1959. The original document is shown in a typewriter font, and my comments now (September, 2005) are in italics.
+
+By Peter R. Samson
+
+PubRelComm
+Jun 59
+The Club had given me the position of "Public Relations Committee" and it was under this title that I issued the Dictionary.
+AN ABRIDGED DICTIONARY
+of the TMRC LANGUAGE
+
+
+---The words defined in this dictionary are the property of the Tech
+      Model Railroad Club of M. I. T. and all rights to use and define
+      these words are strictly reserved.---
+
+
+ABANDON MITCO NOW: cry of friction fans as opposed to traction fans.
+MITCo was the trolley line (known in the jargon as electric traction) on the club layout. Non-trolley modelers would  heckle "Abandon MITCo now!" The social meaning "Troublemakers versus trolley lovers," balances the mechanical meaning "Screech of unlubricated rotary fans, unlike smooth-running electrical ones."
+
+ACQUISITION: a means of getting something for nothing. There are many
+      of these:
+           Acquisition A: you dials your number, and you  gets your/his
+                train.
+           Acquisition B: you dials your number, and you gets the
+                Outside Line (q.v.).
+           Acquisition C, D, etc. see an ancient FOB.
+The usual use of the term "acquisition" was the first of these, for an engineer to initially get control of his train (or someone else's, by mistake or mischief). The FOB is described below.
+
+A.S.A.P.: (getting nowhere fast) as soon as possible.
+It seems that the term was typically used in vain.
+
+BK TOWER: a non-portable brakeman's board for switches and occupancies
+           in the Berkmannville Area.  Has a buzzer which sounds like
+           the Fuse Alarm (q.v.) and the Raunch Alarm (q.v.).
+A user-interface flaw: three different alerts with the same indication.
+
+BLACK BOX: has random inputs and (for cash) outputs.
+Tools and parts not properly put away were subject to confiscation, and said to be put in the Black Box until redeemed on payment of a nominal fine. The definition works on the engineering sense of a black box, whose internal workings are unknown and which can be described only by observing the relation between its inputs and outputs.
+
+BLOCK 29: a hypothetical block connecting block 27 with 1) block 28; 2)
+           block 20; 3) almost anywhere.  At present, an occupancy in
+           block 29 trips the multiflush (q.v.).
+A debated addition to the layout, variously proposed to interconnect other blocks. See the second edition for its eventual resolution.
+
+BLURB: public enlightenment.
+PubRelComm's tongue-in-cheek self-endorsement.
+
+BOX: 1) a large cardboard box under  the layout, labeled from A1 to BB6
+           bearing electrical goodies; 2) a larger wooden enclosure,
+           under the east end of the Tower, labeled from C2R to OJG,
+           bearing members' goodies.
+This contrasts the systematic labeling of boxes under the layout, holding club property, with the unordered labeling of members' boxes by their initials.
+
+BRODERICK: 1) a station on the TNP; 2) a little man who lives in 10-050
+           and gives us lots more electrical goodies than we have room
+           for.
+The station on the layout was named for the man (laboratory manager for MIT's Electrical Engineering Dept.)
+
+BUNKIE: a chair or person that is ridden.
+The club had several bunkies: short wheeled stools that could be sat on to move comfortably under the layout. The term was also a disdainful epithet, popularized in a novelty song of the 1950s by The Old Philosopher: "Is that what's bothering you, bunkie?"
+
+CABEESE: defined plural of caboose.
+Goose -- geese; caboose -- cabeese.
+
+CASBAH: that nook of the clubroom which houses the Desk and Files.
+           Maximum occupancy at one time = 1-1/2 persons.
+In the late 1950s "Come with me to the Casbah" was a cliché.
+
+CLOD: beneath our feet.
+Both literal and figurative senses were used at the time.
+
+COCA-COLA: subject of discussion and confusion, mostly consumption.
+Club members drank lots of Coca-Cola. When buying the beverage from a machine down the hall, members were expected to donate some change to the Coke Fund (see below).
+
+COCA-COOLER: a cooler for Coca-Cola.
+A conflation.
+
+COCA-COOLIE: a coolie for the Coca-Cola Company.  See Coolie.
+Another conflation.
+
+COKE FUND: abolished June 2, 1959.  Replaced by Emergency Fund2 and
+           Coke Machine Fund.
+It was decided at a club business meeting that the club would buy its own Coke machine and keep the profits.
+
+COKE MACHINE FUND: a demonstration of the Club's railroading talent: an
+           example of Machine legislation.
+Political puns, of course, on railroading and machine.
+
+COMM.: short for Committee, or bureaucracy.
+In TMRC usage, nearly always a committee consisted solely of its chairman. Nonetheless, that person had to be duly constituted.
+
+COOLIE: one who does menial labor; always in demand.
+There were always many club projects in need of work. The term was used without ethnic implications.
+
+CROCK: 1) something which fails the purpose of its design from the
+           moment of its conception on; 2) something which by normal
+           or accelerated decay is utterly worthless; 3) (by acrophony)
+           a Coca-Cola.
+Sense 1) refers to something designed on a fundamentally bad principle. Sense  2) is in general use, e.g. "old crock."
+
+CRUD: cruft (q.v.).
+The gag here is to define the obvious word in terms of the more obscure.
+
+CRUFT: that which magically amounds in the Clubroom just before you walk
+           in to clean up.  In other words, rubbage.
+The word was in use at the club when I wrote this definition. The sense is of detritus, that which needs to be swept up and thrown out. The dictionary has no definition for "crufty," a word I didn't hear until some years later. Rubbage is a rare term for rubbish, but I had heard it used growing up in New England.
+
+CUBBYHOLE: small cardboard box under the north end of the Tower,
+           labeled from 1A to 9K.
+Continuing the joke about box labeling.
+
+CUPBOARD: a drawer with a door.
+There really were a lot of storage areas around the clubroom, and a lot of different names to distinguish them. This definition was included for its internal rhyme.
+
+DISMAL: steam-less.
+The late 1950s saw the general replacement of steam locomotives by diesel. Those at the club who mourned the lost glamor and majesty of steam power referred to diesel engines as dismals.
+
+DISPATCHER: He who is in nominal charge of an operating session at which
+           it is stated that the dispatcher is in charge.  Generally in
+           (near-)empathy with the S-Board Operator (if one phone is
+           busy, so is the other.)
+It had become the practice for the dispatcher to operate the switches on the layout (controlled by the panel called S-Board). The definition says obliquely that the dispatcher and the S-Board operator are the same person.
+
+DOORBELL: sonorous chime deep in the System (q.v.) which sounds like
+           the East Campus Line bell.  Last one who can be proven to
+           have entered the Clubroom must answer.
+Aside from the running gibes about different signals that sound alike, the joke here is the ambiguous modifier -- is it the one who is last proven to have entered, or the one who is proven to have entered last?
+
+DOORBELL TESTER: does not test doorbells.
+It contained a doorbell, and was used to test electrical continuity.
+
+DRAWER: 1) that in the Desk which holds miscellany; 2) those all over
+           the place that hold members' equipment.
+Continuing the catalog of storage places.
+
+DT: time/infinity.
+A pithy but unsound definition of a mathematical term.
+
+DURGIN-PARK: Real New England Cooking.
+A long-established restaurant near Faneuil Hall in Boston. In the late 1950s it was TMRC custom to escort new freshman members there for lunch one Saturday in the fall.
+
+EAST CAMPUS LINE: sometimes called the Outside Line (q.v.).  Our only
+           official link with the outside world.  In true TMRC style,
+           since it is essential, it doesn't often work.  Its bell
+           sounds like the doorbell.  Newcomers can't tell them apart.
+           Provides great fun to watch them panic.
+More similar-sounding signals. (Since then the club made great strides in distinguishing them.)
+
+ELI'S: price x 2-1 surplus.
+A technoid way of saying half price. Eli Heffron ran an electronics-surplus store with a startling variety of equipment.
+
+EMERGENCY FUND: 1) that which until June 2, 1959 was known colloquially
+           as the Coke Fund (q.v.); 2) that which after June 2, 1959,
+           gains some obscure function of the profits from the Coke
+           Machine (q.c.e.).
+Here, q.v. is the well-known abbreviation for the Latin quod vide, "which see;" q.c.e. is the previously-unknown abbreviation for the Latin quas cocas eme, "which Cokes buy."
+
+ENTRIPOPPITY: short for entropy, or inverse neatness. Is to be conserved
+           at all cost.
+In a closed system, entropy (a measure of disorder) must increase. To suggest conserving it is ironic, at best.
+
+ERGO: therefore. E.g. the System: "Cogito ergo sum."
+If a machine does it, can it be called thinking?
+
+FLUNKIE: a rideable follie:  flunkie equals follie plus bunkie / 2.
+A mathematical description of a portmanteau word.
+
+FOB, or FULL OF BULL: just what the name implies, we have to give
+           them away.  Always worth the purchase price.
+The FOB was the club's internal newsletter. In railroading, the abbreviation means "Free on Board" for freight.
+
+FOLLIE: a wheeled wooden container, too high to ride and too unstable
+           to stand on.  Suspected etymology---"Flat dolly".  See Flunkie.
+If this etymology is correct, "flunkie" would be a second-order conflation.
+
+FOO:  the sacred syllable (FOO MANI PADME HUM); to be spoken only when
+           under inspiration to commune with the Deity.  Our first
+           obligation is to keep the Foo Counters turning.
+Use of this word at TMRC antedates my coming there. A foo counter could simply have randomly flashing lights, or could be a real counter with an obscure input.
+
+FRESHMAN FOLLY: filling out a White Card, a Green Card, and a Salmon Card.
+The TMRC freshman folly was a construction project set aside for new members. The definition refers to the official application to study at MIT.
+
+FREUDIAN: schöner Götterfunken.
+From Freud to Freude. See the entry for 9th, below.
+
+FRIODES: reversible diodes.
+A diode conducts electricity in one direction; a friode, in both directions or none. It's been fried.
+
+FROTSI: plural of frotsus (q.v.).
+The pseudo-scholarly plural.
+
+FROTSUS: a protruding arm or trunnion.
+This word, meaning a mechanical part sticking out, was used at TMRC. I don't know its origin.
+
+FROWN: fall from the official faces.
+The FOB would sometimes bestow editorial smiles and frowns, to praise or criticize. Fall from face -- fall from grace.
+
+FUNCTION OF, A: post hoc, ergo propter hoc.
+An intentionally dubious definition of the technical usage meaning "dependent on."
+
+FUSE ALARM: a buzzer which goes off indicating a fuse is blown.  Do not
+           ignore or disconnect; play it smart and press the silence
+           button on the power switch.
+Why cure the disease when we provide a way to suppress the symptom?
+
+GENERAL OPERATING RULES AND QUALIFICATION PROGRAM: Members whose duties
+           are prescribed by these rules must provide themselves with a
+           copy.  This book is the property of the Tech Model Rail Road
+           Club and is to be returned when asked for, or when the person
+           holding it leaves the club or that person shall forfeit
+           fifteen cents.
+From the TMRC rule book, this paragraph seemed curious enough to warrant being quoted verbatim.
+
+G.P.'s: general principles.
+A straightforward definition of what appeared to be a local usage.
+
+GRONK: to cut, sever, smash, or similarly disable.  Gronking parties
+           are held at random intervals.
+Perhaps onomatopoeic.
+
+GRONKERS: things which can gronk (q.v.).
+The usefulness of this word is in its ambiguity: maybe cutters, maybe a hammer....
+
+GRUNGE: 1) that which fills the Cambridge atmosphere; 2) to fill
+           the Cambridge atmosphere.
+Airborne crud (though it may settle on things).
+
+HACK: 1) something done without constructive end; 2) a project under-
+           taken on bad self-advice; 3) an entropy booster; 4) to produce,
+           or attempt to produce, a hack3.
+I saw this as a term for an unconventional or unorthodox application of technology, typically deprecated for engineering reasons. There was no specific suggestion of malicious intent (or of benevolence, either). Indeed, the era of this dictionary saw some "good hacks:" using a room-sized computer to play music, for instance; or, some would say, writing the dictionary itself.
+
+HACKER: one who hacks, or makes them.
+A hacker avoids the standard solution. The hack is the basic concept; the hacker is defined in terms of it.
+
+HAIR: complication without end.  Gives "hairy" or utterly deep.
+Taking endless effort to disentangle.
+
+HNO3: nitric acid.
+Sometimes said humorously instead of HOn3, below.
+
+HOBIE: a handful.
+Tiny parts were measured by the heaping hobie.
+
+HOn3: three-foot narrow gage in HO scale.
+Not to be confused with HNO3, above.
+
+HOn8: rewrite of HOn3.
+I think someone at the club carelessly wrote a 3 that looked like an 8, giving me another variant to document.
+
+HORSE-TRADING see Hill.  Or don't see Hill.
+Referring to a club member of the time.
+
+I.E.: means i.e.
+This defines i.e., but i.e. is used to give a definition.
+
+"IS IT REALLY NECESSARY?" famous last words.
+A club president used this phrase to try and cut off frivolous discussion, and was invariably unsuccessful. The phrase fell out of use and this entry was dropped from the second edition.
+
+KENNEL KLUB: 1 - DP (what is left after Durgin-Park).
+An eating place (some say in Kendall Square, Cambridge; others say in Kenmore Square, Boston).
+
+LOSE: to not succeed; to not win.  To miss one's station.
+A railroading metaphor for misunderstanding one's position in life.
+
+LOSER: chronically succumbs to Domine non sum dignus.
+Lord, I am not worthy.
+
+M.I.T. RAILROADERS ASSOCIATION: save your souvenir locomotive wheels,
+           boys, the MITRRA shall rise again!
+By the time of the dictionary, this organization (of railroad enthusiasts at MIT) was defunct.
+
+MRC: the Midnight Requisitioning Committee.
+Less grandiosely known as ScroungeComm.
+
+MTA: the Metro (politan Transit Authority).
+At that time, the name of the Boston transit system.
+
+MULTIFLUSH: break-all-circuit-breakers-and-occupy-block-29 button.  Next
+           best thing to switch 19.
+Known to later generations as the foo switch, it stopped all trains at once.
+
+MULTISCHLUNKER: changes bei eisenbahn into marsch, und schnell!
+Timing relays in the System, which would click rhythmically whenever a train was being run. The Germanic sound of "schlunker" may have prompted this definition.
+
+MUNG: mash until no good.
+David Sawyer, a club member, would make vocal sound effects; his "mung" sound represented a mechanical part vibrating. I took it to refer to one part hitting another, and concocted this anti-acronym. The term has since spread and taken on figurative meanings.
+
+MURPHY'S LAWS: 1. If something can go wrong in a system, it will.
+               2. There is always something to go wrong.
+               3. When things go wrong, they do so in the manner
+           that yields the most difficulty.
+In this form, Murphy's laws roughly parallel the three laws of thermodynamics.
+
+MUSIC: TIDDLEY-POO: onomatopoeia for music of the same sound.
+       ZOOM-ZOOM: string quartets, quintets, etcets.
+       PING-PONG: harpsichord selections.
+In the 1950s, when we students listened to music, it was classical music.
+
+NODE: a point on the layout (but not on the TNP) where all unconnected
+           lines become infinitely connected.
+This distinguishes the TNP (the railroad that the club nominally modeled, called the Tech Nickel Plate) from the layout of track that modeled it. The TNP was, in concept, a point-to-point line, but the layout contained various switches connecting points that on the TNP were far apart.
+
+NX: a myth.  Why else the Opium Den? (q.v.)
+One operating position duplicated the NX interlocking of real railroads. At the time of this dictionary, it didn't work; since the cramped space under the Tower was called the Opium Den, I alluded to the NX as a pipe dream. (This entry was dropped from the second edition of the dictionary, because the NX had been brought back into service.)
+
+OPIUM DEN: space under the Tower, holding out-of-use relays, raincoats,
+           and typewriters.
+The out-of-use relays were the NX (see above).
+
+OUTSIDE LINE: 1) the East Campus line; 2) an Institute Extension;
+           3) an outside line (e.g. UN 4- ).  Attained by Acquisition B.
+At the time of this dictionary, of these three definitions the club was known to have only the first, a line on the MIT dormitory phone system. If other connections existed they were secret.
+
+"PEOPLE ARE NO DAMNED GOOD."  Just ask the President.
+This was a cliché of the time, quoted frequently by a club president.
+
+PILE: a vile of which is usually referred to.
+A contorted way to refer to a "vile pile."
+
+PLATES: Turned on by the plate button, except that they don't exist any
+            more.  Synonym for System DC.
+Had previously meant the plates (anodes) of rectifier tubes in the System power supply.
+
+POTTY AWARD: anually disposed upon the one who took the little boy....
+A duty of guides at club open houses. Is that a typo for "annually?"
+
+PRINCIPLE OF MAXIMUM INCONVENIENCE: Murphy's Third Law (q.v.).
+Well known to engineers (and modelers).
+
+RAUNCH ALARM: a buzzer, deep in the System, which indicates that two
+           control boards are operating the same train.  Sounds the
+           same as the Fuse Alarm and the BK Tower signal.
+This alarm indicated that two control boards had become intimately connected.
+
+RELAY: a global and systematic rotator.
+They make the world go round.
+
+RULE G: liberation (pun).
+In railroad rule books, Rule G prohibits working under the influence of alcohol. I saw a remote pun between liberation and libation.
+
+S-BOARD: Control board to throw track switches.  Communes with
+           Dispatcher on ethereal topics.
+See Dispatcher.
+
+SALLY:
+The friend of a club member, marvelous beyond description. (This entry was dropped from the second edition.)
+
+SCALE TIME: measured by the clock on the (south) wall.  Something
+           designed to make the S-Board Operator think twelve times
+           faster.
+Model railroads run on fast time so that their timetables look reasonable.
+
+SCALPS: woven into the block forest by elves.
+Daniel Whitney asked me to put in this definition of his; scalps were bundles of wire, and the block forest was the System.
+
+SCROUNGE: 1) to search for, or find, equipment previously without a
+           good home; 2) to acquire; 3) one who scrounges.
+A term apparently adopted from the military.
+
+SCROUNGE CART: a battlewagon used to cart back booty.
+It was a large flat cart on casters.
+
+SEMAPHORES: wise-foolish things which move up and down.
+A pun on sophomore.
+
+SIMULTUOUSLY:(L. simul, simultuously) at the same time.
+A dig at dictionaries that define things circularly.
+
+SNB&TCo: an institution serving TMRC members for many years.
+This refers to a club member who could be trusted to have (and make) change for people. See the second edition for the evolution of this service.
+
+STEAM TUNNEL: through these portals pass the cruddiest wires in the
+           world: our East Campus Line.
+Dormitory telephone wires were strung through the campus steam tunnels. They suffered in that environment.
+
+SUBWAY: where MITCo passes under P-Yard.
+As far as I can remember, this was just a straightforward definition.
+
+SUCTION FUND: cause of the Hoover Committee.  Now known as the Emergency
+           Fund1 (q.v.).
+The Hoover Commission was a U.S. government body in the late 1940s, but the club version was to buy a vacuum cleaner.
+
+SULFUROUS FUMES: exclusive property of the Vice-president.  Seek and
+           ye shall find.
+There was a club vice-president (really a very nice guy) who referred to his criticisms as sulfurous fumes.
+
+SWITCH 19: that in the hall upon which we may depend.
+This was a power switch in the hall that controlled some of the outlets in the clubroom.
+
+SYSTEM, THE: unnecessary; after all, we could all make model airplanes.
+An exaggeration, though the System made running trains much easier. Model airplanes were anathema in the clubroom.
+
+S&P: source of light, though not necessarily of sweetness.  Ask any
+           officer.
+The Signals and Power Committee chairman at one time had a rather confrontational personality.
+
+THREE-PHASE: 1) operating S-Board, M1, and M2 at the same time; 2) 208-
+           volt AC powering the System.
+When the layout and the System were working well, it was possible for one person to run two separate trains and control all the track switches at the same time.
+
+TIMETABLE OPERATION: that for which yards blame main line, main line
+           blames S-Board, S-Board blames Dispatcher, and Dispatcher
+           blames timetable.  Timetable, as you might guess, fights back.
+I'm not sure it's apparent from this definition, but timetable operation was actually a lot of fun.
+
+TOOL: 1) to set one's brain to the grindstone; 2) a human edge.
+The meaning at MIT was to study hard, or a very diligent student (also called a grind).
+
+TOOL SHED: machine shop (for grinding wheels).
+A nonce term for a place, such as an unused classroom, to study in.
+
+TRACK-CLEANING CAR: for sale.
+Various kinds of model track-cleaning car were tried, and none worked well.
+
+TUCKER (Prof.): our faculty advisor.  The standard phrase is, "Pro-
+           fessor Tucker was in the Clubroom from --- to --- last ---."
+His overt connection with the club was limited to approximately annual visits. Behind the scenes, he spoke for the club to the MIT administration (and helped acquire telephone switching gear).
+
+WIN: opposite of lose (q.v.).
+To succeed, perhaps outstandingly.
+
+WINNER: one or something that wins.
+A generic term of approbation.
+
+ZORCH: to attack with an inverse heat sink.
+Another of David Sawyer's sound effects, which I reinterpreted as a colorful variant of "scorch."
+
+0-2-0: Ingard model, Kraushaar prototype.
+The 0-2-0 is a designation for a locomotive with just one pair of wheels. It uses a gyroscope to remain upright. Profs. Ingard and Kraushaar taught freshman physics, which included gyroscopes. My recollection is that this wording was offered by another member, though I do not now remember who it was.
+
+9TH, THE: a level of communication attained most eminently by L.  von
+           Beethoven.
+Dialing 9 on certain MIT extensions would connect to the outside world (called the 9th level by some telephone hobbyists). Beethoven's 9th Symphony also communicates, in a way.
